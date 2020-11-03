@@ -1,0 +1,10 @@
+		#order["company_id"]=1
+		#order["currency_id"]=
+		#order["picking_policy"]='direct'
+		#order["pricelist_id"]=1
+		#order["warehouse_id"]=1
+		#order["state"]='draft'
+		#order["partner_invoice_id"]=441
+		#order["partner_shipping_id"]=441	
+		#order["user_id"]=2
+		
